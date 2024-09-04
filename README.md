@@ -3,7 +3,11 @@ This is an Unreal 5.3 project that uses PDFium binaries to read PDF and show it 
 * Currently it is supported for Windows 64 bit operating sytem.
 
 
+
 The plugin is c++ based that uses PDFium precompiled binaries. Please compile the project for the first time and then use it. 
 The PDFium binaries can be found: https://github.com/bblanchon/pdfium-binaries
+<br>
+<br>
+<br>
 
-
+![Alt text](Docs/Capture.PNG?raw=true "Title")
